@@ -1,0 +1,93 @@
+
+body {
+    background-color: #ffd34d;
+}
+
+h1 {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-style: italic;
+	color: white;
+	
+	}
+	#heading{
+	margin-bottom: 10px;
+	background-color: #990000;
+	padding: 15px;
+	text-align: center;
+	border-style: solid;
+    border-width: 15px;
+	border-color: black #990000 black #990000;
+	height: 50px;
+	float:left;
+	display:block;	
+}
+#Productions{
+	font-family: Verdana, Helvetica, sans-serif;
+	color:white;
+	height: 300px;
+	width: 200px;
+	border: solid black 2px;
+	background-color:#990000;
+	color:white;
+	margin:10px;
+	position: absolute;
+    top: 150px;
+    left: 5px ;
+}
+#booking{
+	text-align:center;
+	font-family: Verdana, Helvetica, sans-serif;
+	color:white;
+	position:relative;
+	top:30px;
+	left:10px;
+	height: 800px;
+	width: 250px;
+	border: solid black 2px;
+	background-color:#990000;
+	clear:both;
+	margin:20px;
+	
+}
+a.button{
+	clear: both;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right:auto;
+	display: block;
+	width: 120px;
+	height: 20px;
+  	background: #ffd34d;
+  	padding: 40px;
+  	text-align: center;
+  	border-radius: 15px;
+  	color:normal;
+  	font-family:Verdana, Geneva, sans-seri;
+  	font-size:12;
+  	border-top-left-radius: 5px;
+  	border-top-right-radius: 5px;
+  	border-bottom-left-radius: 5px;
+  	border-bottom-right-radius: 5px;
+	border: 2px solid black;
+	border-radius: 15px;
+	
+}
+#content{
+
+clear:both;
+
+background-color:#980000
+}
+#menu{
+background-color:#990000;
+height:20px;
+width:200px;
+border: 2px solid black;
+margin-bottom:20px;
+}
+#picture{
+	font-family: Verdana, Helvetica, sans-serif;
+	position: absolute;
+    top: 130px;
+    left: 250px ; 
+}
